@@ -1,6 +1,5 @@
 update pc
 fix the drawer
-buy catsmake cakeMake pizza
-clean the programMaster Python
 new todo
 last
+update course
