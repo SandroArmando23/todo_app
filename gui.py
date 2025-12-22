@@ -17,7 +17,7 @@ window = sg.Window('My To-Do App',
 while True:
     event, values = window.read()      # possiamo assegnare due variabili insieme a una tupla o una lista che abbia lo stesso numero di items quante le variabili var1 = Arg1  var2=arg2
     print(event)    # stampa 'Add' del button che è la label dell'event
-    print(values)   # stampa {'todo': 'Hi'}, con Hi intendiamo il testo scritto nell'input txt box
+    print(values)   # stampa {'to-do': 'Hi'}, con Hi intendiamo il testo scritto nell Input txt box
     match event:
         case "Add":
             todos = functions.get_todos()
