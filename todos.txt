@@ -1,7 +1,7 @@
 update pc
 fix the drawer
-buy camera
-Make soup
-Make pizza
-clean the code
-Master Python
+buy catsmake cakeMake pizza
+clean the programMaster Python
+
+new todo
+last
